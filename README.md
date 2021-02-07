@@ -284,4 +284,3 @@ Existe um console log que mostra quando uma conexão é feita ou desfeita. Isso 
 Para melhor performance pode-se boostar o uso maximo de ram por node também.
 </h3>
 <img src="./README_ASSETS/console_logs.png" width="100%">
-by:Felipe Gené de Faria
